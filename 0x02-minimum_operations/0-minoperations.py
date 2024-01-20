@@ -7,8 +7,7 @@
 
 def minOperations(n):
     """
-        A function that calculates the fewest number of operations
-    
+        A function that calculates the fewest number of operations 
     """
 
     now = 1
